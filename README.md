@@ -4,7 +4,7 @@
 
 ### Database Design:
 
-![image-20241001161211224](img\image-20241001161211224.png)
+![image-20241001161211224](img/image-20241001161211224.png)
 
 
 
@@ -22,7 +22,7 @@ password: slackOverflowDB
 
 screenshot of connecting to database:
 
-![image-20241001161026985](img\image-20241001161026985.png)
+![image-20241001161026985](img/image-20241001161026985.png)
 
 
 
