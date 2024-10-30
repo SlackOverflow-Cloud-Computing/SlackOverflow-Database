@@ -12,5 +12,13 @@ CREATE TABLE spotify_user (
     last_login TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+CREATE TABLE token (
+    access_token VARCHAR(255),
+    token_type VARCHAR(255),
+    scope VARCHAR(255),
+    expires_in DOUBLE,
+    refresh_token VARCHAR(255)
+);
+
 -- Step 4: Verify the table creation
 SHOW TABLES;
